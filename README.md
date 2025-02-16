@@ -1,6 +1,7 @@
 # Agrivanna Common
 
 [![Production Release](https://github.com/Vortex-Livestock/agrivanna-common/actions/workflows/release.yaml/badge.svg)](https://github.com/Vortex-Livestock/agrivanna-common/actions/workflows/release.yaml)
+[![Continuous Integration](https://github.com/Vortex-Livestock/agrivanna-common/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/Vortex-Livestock/agrivanna-common/actions/workflows/continuous_integration.yaml)
 
 Agrivanna Common is a Go package that contains common functions and utilities that are used across all Agrivanna services.
 
