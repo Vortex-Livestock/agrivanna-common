@@ -21,5 +21,5 @@ func ReadJSON(r *http.Request, data any) error {
 }
 
 func WriteError(w http.ResponseWriter, statusCode int, message string) {
-	WriteJSON(w, statusCode, map[string]string{"error": message})
+	_ = WriteJSON(w, statusCode, map[string]string{"error": message})
 }
